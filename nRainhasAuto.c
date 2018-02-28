@@ -105,7 +105,7 @@ void main(){
             printf("Tabuleiro %dx%d \n", z, z);
 
             init = omp_get_wtime();
-            #pragma omp parallel for schedule(auto)
+            #pragma omp parallel for schedule(auto) num_threads(y)
             for (size_t i = 0; i < nSize; i++) { //para cada casa em uma linha
                 int ** answer = malloc(sizeof(int *) * z * 2);
                 initAnswer(answer, z); //all less one

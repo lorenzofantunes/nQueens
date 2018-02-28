@@ -97,7 +97,7 @@ void main(){
     nSize = 12;
     nThreads = 8;
 
-    printf("-------------------------------------AUTO-------------------------------------\n");
+    printf("-------------------------------------DYNAMIC-------------------------------------\n");
     int y, z;
     for (y = 1; y <= nThreads; y++) {
         printf("NÚMERO DE THREADS: %d\n", y);
@@ -105,7 +105,7 @@ void main(){
             printf("Tabuleiro %dx%d \n", z, z);
 
             init = omp_get_wtime();
-            #pragma omp parallel for schedule(dynamic)
+            #pragma omp parallel for schedule(dynamic) num_threads(y)
             for (size_t i = 0; i < nSize; i++) { //para cada casa em uma linha
                 int ** answer = malloc(sizeof(int *) * z * 2);
                 initAnswer(answer, z); //all less one

@@ -1,161 +1,161 @@
 -------------------------------------AUTO-------------------------------------
 NÚMERO DE THREADS: 1
 Tabuleiro 4x4 
-1 threads: 0.000999
+1 threads: 0.000059
 Tabuleiro 5x5 
-1 threads: 0.000087
+1 threads: 0.000183
 Tabuleiro 6x6 
-1 threads: 0.000251
+1 threads: 0.000620
 Tabuleiro 7x7 
-1 threads: 0.001040
+1 threads: 0.002580
 Tabuleiro 8x8 
-1 threads: 0.002754
+1 threads: 0.011438
 Tabuleiro 9x9 
-1 threads: 0.009008
+1 threads: 0.027947
 Tabuleiro 10x10 
-1 threads: 0.037425
+1 threads: 0.112095
 Tabuleiro 11x11 
-1 threads: 0.183781
+1 threads: 0.514340
 Tabuleiro 12x12 
-1 threads: 0.599341
+1 threads: 2.375772
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||
 NÚMERO DE THREADS: 2
 Tabuleiro 4x4 
-2 threads: 0.000017
+2 threads: 0.000133
 Tabuleiro 5x5 
-2 threads: 0.000063
+2 threads: 0.000142
 Tabuleiro 6x6 
-2 threads: 0.000153
+2 threads: 0.000565
 Tabuleiro 7x7 
-2 threads: 0.000574
+2 threads: 0.002112
 Tabuleiro 8x8 
-2 threads: 0.002482
+2 threads: 0.008538
 Tabuleiro 9x9 
-2 threads: 0.008074
+2 threads: 0.023067
 Tabuleiro 10x10 
-2 threads: 0.045609
+2 threads: 0.087061
 Tabuleiro 11x11 
-2 threads: 0.191347
+2 threads: 0.347154
 Tabuleiro 12x12 
-2 threads: 0.597571
+2 threads: 1.332899
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||
 NÚMERO DE THREADS: 3
 Tabuleiro 4x4 
-3 threads: 0.001937
+3 threads: 0.000076
 Tabuleiro 5x5 
-3 threads: 0.000058
+3 threads: 0.000072
 Tabuleiro 6x6 
-3 threads: 0.000173
+3 threads: 0.000291
 Tabuleiro 7x7 
-3 threads: 0.000570
+3 threads: 0.001202
 Tabuleiro 8x8 
-3 threads: 0.002461
+3 threads: 0.006049
 Tabuleiro 9x9 
-3 threads: 0.009909
+3 threads: 0.019999
 Tabuleiro 10x10 
-3 threads: 0.034137
+3 threads: 0.073622
 Tabuleiro 11x11 
-3 threads: 0.187705
+3 threads: 0.289922
 Tabuleiro 12x12 
-3 threads: 0.579154
+3 threads: 0.947453
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||
 NÚMERO DE THREADS: 4
 Tabuleiro 4x4 
-4 threads: 0.000018
+4 threads: 0.000090
 Tabuleiro 5x5 
-4 threads: 0.000056
+4 threads: 0.000077
 Tabuleiro 6x6 
-4 threads: 0.000169
+4 threads: 0.000338
 Tabuleiro 7x7 
-4 threads: 0.000565
+4 threads: 0.001380
 Tabuleiro 8x8 
-4 threads: 0.002379
+4 threads: 0.005537
 Tabuleiro 9x9 
-4 threads: 0.008758
+4 threads: 0.020506
 Tabuleiro 10x10 
-4 threads: 0.037216
+4 threads: 0.070922
 Tabuleiro 11x11 
-4 threads: 0.194819
+4 threads: 0.221570
 Tabuleiro 12x12 
-4 threads: 0.592787
+4 threads: 0.760013
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||
 NÚMERO DE THREADS: 5
 Tabuleiro 4x4 
-5 threads: 0.001591
+5 threads: 0.000069
 Tabuleiro 5x5 
-5 threads: 0.000057
+5 threads: 0.000056
 Tabuleiro 6x6 
-5 threads: 0.000152
+5 threads: 0.000223
 Tabuleiro 7x7 
-5 threads: 0.000582
+5 threads: 0.001080
 Tabuleiro 8x8 
-5 threads: 0.002437
+5 threads: 0.004581
 Tabuleiro 9x9 
-5 threads: 0.008893
+5 threads: 0.014532
 Tabuleiro 10x10 
-5 threads: 0.037880
+5 threads: 0.062604
 Tabuleiro 11x11 
-5 threads: 0.186906
+5 threads: 0.221575
 Tabuleiro 12x12 
-5 threads: 0.611187
+5 threads: 0.765305
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||
 NÚMERO DE THREADS: 6
 Tabuleiro 4x4 
-6 threads: 0.000027
+6 threads: 0.000077
 Tabuleiro 5x5 
-6 threads: 0.000056
+6 threads: 0.000054
 Tabuleiro 6x6 
-6 threads: 0.000147
+6 threads: 0.000212
 Tabuleiro 7x7 
-6 threads: 0.000587
+6 threads: 0.000944
 Tabuleiro 8x8 
-6 threads: 0.004880
+6 threads: 0.004049
 Tabuleiro 9x9 
-6 threads: 0.014329
+6 threads: 0.015246
 Tabuleiro 10x10 
-6 threads: 0.034158
+6 threads: 0.062565
 Tabuleiro 11x11 
-6 threads: 0.170192
+6 threads: 0.215113
 Tabuleiro 12x12 
-6 threads: 0.593972
+6 threads: 0.627242
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||
 NÚMERO DE THREADS: 7
 Tabuleiro 4x4 
-7 threads: 0.003077
+7 threads: 0.000084
 Tabuleiro 5x5 
-7 threads: 0.004061
+7 threads: 0.000058
 Tabuleiro 6x6 
-7 threads: 0.000693
+7 threads: 0.000211
 Tabuleiro 7x7 
-7 threads: 0.000573
+7 threads: 0.000706
 Tabuleiro 8x8 
-7 threads: 0.002456
+7 threads: 0.003187
 Tabuleiro 9x9 
-7 threads: 0.009019
+7 threads: 0.010352
 Tabuleiro 10x10 
-7 threads: 0.037701
+7 threads: 0.037357
 Tabuleiro 11x11 
-7 threads: 0.185523
+7 threads: 0.195605
 Tabuleiro 12x12 
-7 threads: 0.571470
+7 threads: 0.623684
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||
 NÚMERO DE THREADS: 8
 Tabuleiro 4x4 
-8 threads: 0.001003
+8 threads: 0.001979
 Tabuleiro 5x5 
-8 threads: 0.000067
+8 threads: 0.000057
 Tabuleiro 6x6 
-8 threads: 0.000145
+8 threads: 0.000141
 Tabuleiro 7x7 
-8 threads: 0.000598
+8 threads: 0.000561
 Tabuleiro 8x8 
-8 threads: 0.002978
+8 threads: 0.002475
 Tabuleiro 9x9 
-8 threads: 0.008998
+8 threads: 0.010509
 Tabuleiro 10x10 
-8 threads: 0.037785
+8 threads: 0.038931
 Tabuleiro 11x11 
-8 threads: 0.183533
+8 threads: 0.170628
 Tabuleiro 12x12 
-8 threads: 0.582647
+8 threads: 0.604772
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||
