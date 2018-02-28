@@ -1,0 +1,161 @@
+-------------------------------------AUTO-------------------------------------
+NÚMERO DE THREADS: 1
+Tabuleiro 4x4 
+1 threads: 0.000999
+Tabuleiro 5x5 
+1 threads: 0.000087
+Tabuleiro 6x6 
+1 threads: 0.000251
+Tabuleiro 7x7 
+1 threads: 0.001040
+Tabuleiro 8x8 
+1 threads: 0.002754
+Tabuleiro 9x9 
+1 threads: 0.009008
+Tabuleiro 10x10 
+1 threads: 0.037425
+Tabuleiro 11x11 
+1 threads: 0.183781
+Tabuleiro 12x12 
+1 threads: 0.599341
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NÚMERO DE THREADS: 2
+Tabuleiro 4x4 
+2 threads: 0.000017
+Tabuleiro 5x5 
+2 threads: 0.000063
+Tabuleiro 6x6 
+2 threads: 0.000153
+Tabuleiro 7x7 
+2 threads: 0.000574
+Tabuleiro 8x8 
+2 threads: 0.002482
+Tabuleiro 9x9 
+2 threads: 0.008074
+Tabuleiro 10x10 
+2 threads: 0.045609
+Tabuleiro 11x11 
+2 threads: 0.191347
+Tabuleiro 12x12 
+2 threads: 0.597571
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NÚMERO DE THREADS: 3
+Tabuleiro 4x4 
+3 threads: 0.001937
+Tabuleiro 5x5 
+3 threads: 0.000058
+Tabuleiro 6x6 
+3 threads: 0.000173
+Tabuleiro 7x7 
+3 threads: 0.000570
+Tabuleiro 8x8 
+3 threads: 0.002461
+Tabuleiro 9x9 
+3 threads: 0.009909
+Tabuleiro 10x10 
+3 threads: 0.034137
+Tabuleiro 11x11 
+3 threads: 0.187705
+Tabuleiro 12x12 
+3 threads: 0.579154
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NÚMERO DE THREADS: 4
+Tabuleiro 4x4 
+4 threads: 0.000018
+Tabuleiro 5x5 
+4 threads: 0.000056
+Tabuleiro 6x6 
+4 threads: 0.000169
+Tabuleiro 7x7 
+4 threads: 0.000565
+Tabuleiro 8x8 
+4 threads: 0.002379
+Tabuleiro 9x9 
+4 threads: 0.008758
+Tabuleiro 10x10 
+4 threads: 0.037216
+Tabuleiro 11x11 
+4 threads: 0.194819
+Tabuleiro 12x12 
+4 threads: 0.592787
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NÚMERO DE THREADS: 5
+Tabuleiro 4x4 
+5 threads: 0.001591
+Tabuleiro 5x5 
+5 threads: 0.000057
+Tabuleiro 6x6 
+5 threads: 0.000152
+Tabuleiro 7x7 
+5 threads: 0.000582
+Tabuleiro 8x8 
+5 threads: 0.002437
+Tabuleiro 9x9 
+5 threads: 0.008893
+Tabuleiro 10x10 
+5 threads: 0.037880
+Tabuleiro 11x11 
+5 threads: 0.186906
+Tabuleiro 12x12 
+5 threads: 0.611187
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NÚMERO DE THREADS: 6
+Tabuleiro 4x4 
+6 threads: 0.000027
+Tabuleiro 5x5 
+6 threads: 0.000056
+Tabuleiro 6x6 
+6 threads: 0.000147
+Tabuleiro 7x7 
+6 threads: 0.000587
+Tabuleiro 8x8 
+6 threads: 0.004880
+Tabuleiro 9x9 
+6 threads: 0.014329
+Tabuleiro 10x10 
+6 threads: 0.034158
+Tabuleiro 11x11 
+6 threads: 0.170192
+Tabuleiro 12x12 
+6 threads: 0.593972
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NÚMERO DE THREADS: 7
+Tabuleiro 4x4 
+7 threads: 0.003077
+Tabuleiro 5x5 
+7 threads: 0.004061
+Tabuleiro 6x6 
+7 threads: 0.000693
+Tabuleiro 7x7 
+7 threads: 0.000573
+Tabuleiro 8x8 
+7 threads: 0.002456
+Tabuleiro 9x9 
+7 threads: 0.009019
+Tabuleiro 10x10 
+7 threads: 0.037701
+Tabuleiro 11x11 
+7 threads: 0.185523
+Tabuleiro 12x12 
+7 threads: 0.571470
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NÚMERO DE THREADS: 8
+Tabuleiro 4x4 
+8 threads: 0.001003
+Tabuleiro 5x5 
+8 threads: 0.000067
+Tabuleiro 6x6 
+8 threads: 0.000145
+Tabuleiro 7x7 
+8 threads: 0.000598
+Tabuleiro 8x8 
+8 threads: 0.002978
+Tabuleiro 9x9 
+8 threads: 0.008998
+Tabuleiro 10x10 
+8 threads: 0.037785
+Tabuleiro 11x11 
+8 threads: 0.183533
+Tabuleiro 12x12 
+8 threads: 0.582647
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
